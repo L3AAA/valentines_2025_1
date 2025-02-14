@@ -1,2 +1,3 @@
-# valentines_2025_1
-gift 1
+# vday
+
+A small and cringy valentines day project for my beloved boyfriend.
